@@ -73,8 +73,8 @@
       <div class="container">
       	<div class="row justify-content-center">
           <div class="col-md-12 heading-section text-center ftco-animate mb-5">
-          	<span class="subheading">Our Services</span>
-            <h2 class="mb-2">The smartest way to buy a home</h2>
+          	<span class="subheading">eSinergi</span>
+            <h2 class="mb-2">Apa itu eSinergi?</h2>
           </div>
         </div>
         <div class="row d-flex">
