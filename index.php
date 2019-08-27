@@ -43,7 +43,8 @@
 	          <li class="nav-item"><a href="services.php" class="nav-link">Services</a></li>
 	          <li class="nav-item"><a href="properties.php" class="nav-link">Properties</a></li>
 	          <li class="nav-item"><a href="blog.php" class="nav-link">Blog</a></li>
-	          <li class="nav-item"><a href="contact.php" class="nav-link">Contact</a></li> -->
+            <li class="nav-item"><a href="contact.php" class="nav-link">Contact</a></li> -->
+            <li class="nav-item"><a href="login.php" class="nav-link">Login</a></li>
 	        </ul>
 	      </div>
 	    </div>
@@ -57,7 +58,7 @@
           <div class="col-lg-8 col-md-6 ftco-animate d-flex align-items-end">
           	<div class="text text-center">
 	            <h1 class="mb-4">Mari Berpartisipasi dalam Pembangunan</h1>
-	            <p style="font-size: 18px;">Menuju Kabupaten Sukabumi yang Lebih Baik</p>
+	            <p style="font-size: 28px;">Menuju Kabupaten Sukabumi yang Lebih Baik</p>
             </div>
           </div>
         </div>
